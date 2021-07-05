@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id":1,
+      "option":{
+        "id":1,
+        "name":"option d",
+        "lat":-26.016945887725345,
+        "lng": 28.22221479401304
+      },
+      "attachment":null,
+      "price":0
+    },
+    {
+      "id":2,
+      "lat":-26.015846737633197,
+      "lng": 28.22418889965459,
+      "option":{
+        "id":1,
+        "name":"option b",
+        "lat":-26.013591,
+        "lng": 28.229540
+      },
+      "attachment":null,
+      "price":0
+    }
+  ]
+}
